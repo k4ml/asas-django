@@ -8,7 +8,7 @@ Asas Pengaturcaraan Web Menggunakan Python/Django
 Contents:
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     
     intro-django
     instalasi
